@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 
 
 
-I am fourth-year PhD student at [ECE Department](https://www.ece.cmu.edu/) at Carnegie Mellon University. I am fortunate to be co-advised by [Peter Steenkiste](https://www.cs.cmu.edu/~prs/) and [Vyas Sekar](https://users.ece.cmu.edu/~vsekar/). Prior to CMU, I received a BS degree in Computer Science from KAIST. My research interests lie in the intersection of network monitoring and programmable hardwares.
+I am a fourth-year PhD student at [ECE Department](https://www.ece.cmu.edu/) at Carnegie Mellon University. I am fortunate to be co-advised by [Peter Steenkiste](https://www.cs.cmu.edu/~prs/) and [Vyas Sekar](https://users.ece.cmu.edu/~vsekar/). Prior to CMU, I received a BS degree in Computer Science from KAIST. My research interests lie in the intersection of network monitoring and programmable hardwares.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
