@@ -1,57 +1,123 @@
----
----
 
-@inproceedings{sketchlib,
-  abbr={NSDI},
-  title={SketchLib: Enabling Efficient Sketch-based Monitoring on Programmable Switches (to appear)},
-  author={Namkung, Hun and Liu, Zaoxing and Kim, Daehyeok and Sekar, Vyas and Steenkiste, Peter},
-  booktitle={19th USENIX Symposium on Networked Systems Design and Implementation (NSDI)},
-  abstract={Sketching algorithms or sketches enable accurate network measurement results with low resource footprints. While emerging programmable switches are an attractive target to get these benefits, current implementations of sketches are either inefficient and/or infeasible on hardware. Our contributions in the paper are: (1) systematically analyzing the resource bottlenecks of existing sketch implementations in hardware; (2) identifying practical and correct-by-construction optimization techniques to tackle the identified bottlenecks; and (3) designing an easy-to-use library called SketchLib to help developers efficiently implement their sketch algorithms in switch hardware to benefit from these resource optimizations. Our evaluation on state-of-the-art sketches demonstrates that SketchLib reduces the hardware resource footprint up to 96% without impacting fidelity.},
-  year={2022},
-  pdf={nsdi22-sketchlib.pdf},
-  selected={true}
+@article{park2019semi,
+  title={Semi-supervised distributed representations of documents for sentiment analysis},
+  author={Park, Saerom and Lee, Jaewook and Kim, Kyoungok},
+  journal={Neural Networks},
+  volume={119},
+  pages={139--150},
+  year={2019},
+  publisher={Elsevier}
 }
 
-@inproceedings{accusketch,
-  abbr={SOSR},
-  title={Telemetry Retrieval Inaccuracy in Programmable Switches: Analysis and Recommendations (to appear)},
-  author={Namkung, Hun and Kim, Daehyeok and Liu, Zaoxing and Sekar, Vyas and Steenkiste, Peter },
-  booktitle={Proceedings of the Symposium on SDN Research (SOSR)},
-  abstract={Sketching algorithms or sketches are attractive as telemetry capabilities on programmable hardware switches since they offer rigorous accuracy guarantees and use compact data structures. However, we find that in practice, their actual implementations can have a significant (up to 94\times×) accuracy drop compared to theoretical expectations. We find that the delays incurred by pulling and resetting the data plane state induce accuracy degradation. We design and implement solutions to reduce the delays and show that our solutions can help eliminate almost all the inaccuracy of existing sketch workflows.},
-  year={2021},
-  pdf={sosr21-telemetry.pdf},
-  selected={true}
-}
-
-@inproceedings{liu2021jaqen,
-  abbr={Usenix Security},
-  title={Jaqen: A high-performance switch-native approach for detecting and mitigating volumetric ddos attacks with programmable switches},
-  author={Liu, Zaoxing and Namkung, Hun and Nikolaidis, Georgios and Lee, Jeongkeun and Kim, Changhoon and Jin, Xin and Braverman, Vladimir and Yu, Minlan and Sekar, Vyas},
-  booktitle={30th USENIX Security Symposium (USENIX Security)},
-  abstract={The emergence of programmable switches offers a new opportunity to revisit ISP-scale defenses for volumetric DDoS attacks. In theory, these can offer better cost vs. performance vs. flexibility trade-offs relative to proprietary hardware and virtual appliances. However, the ISP setting creates unique challenges in this regard—we need to run a broad spectrum of detection and mitigation functions natively on the programmable switch hardware and respond to dynamic adaptive attacks at scale. Thus, prior efforts in using programmable switches that assume out-of-band detection and/or use switches merely as accelerators for specific tasks are no longer sufficient, and as such, this potential remains unrealized. To tackle these challenges, we design and implement Jaqen, a switch-native approach for volumetric DDoS defense that can run detection and mitigation functions entirely inline on switches, without relying on additional data plane hardware. We design switch-optimized, resource-efficient detection and mitigation building blocks. We design a flexible API to construct a wide spectrum of best-practice (and future) defense strategies that efficiently use switch capabilities. We build a network-wide resource manager that quickly adapts to the attack posture changes. Our experiments show that Jaqen is orders of magnitude more performant than existing systems: Jaqen can handle large-scale hybrid and dynamic attacks within seconds, and mitigate them effectively at high line-rates (380 Gbps).},
-  year={2021},
-  pdf={USENIX_Security21_Jaqen.pdf},
-}
-
-@inproceedings{liu2021sketchy,
-  abbr={TaPoPF},
-  title={Sketchy With a Chance of Adoption: Can Sketch-Based Telemetry Be Ready for Prime Time?},
-  author={Liu, Zaoxing and Namkung, Hun and Agarwal, Anup and Manousis, Antonis and Steenkiste, Peter and Seshan, Srinivasan and Sekar, Vyas},
-  abstract={Sketching algorithms or sketches have emerged as a promising alternative to the traditional packet samplingbased network telemetry solutions. At a high level, they are attractive because of their high resource efficiency and provable accuracy guarantees. While there have been significant recent advances in various aspects of sketching for networking tasks, many fundamental challenges remain unsolved that are likely stumbling blocks for adoption. Our contribution in this paper is in identifying and formulating these research challenges across the ecosystem encompassing network operators, platform vendors/developers, and algorithm designers. We hope that these serve as a necessary fillip for the community to enable the broader adoption of sketch-based telemetry.},
-  booktitle={2021 IEEE 7th International Conference on Network Softwarization (NetSoft)},
-  pages={9--16},
-  year={2021},
-  organization={IEEE},
-  pdf={TaPoPF21_Sketching.pdf},
-}
-
-@inproceedings{kim2016enabling,
-  abbr={CoNEXT},
-  title={Enabling automatic protocol behavior analysis for android applications},
-  author={Kim, Jeongmin and Choi, Hyunwoo and Namkung, Hun and Choi, Woohyun and Choi, Byungkwon and Hong, Hyunwook and Kim, Yongdae and Lee, Jonghyup and Han, Dongsu},
-  booktitle={Proceedings of the 12th International on Conference on emerging Networking EXperiments and Technologies (CoNEXT)},
-  abstract={Understanding app-specific behavior is important for network operation and management. However, it is often difficult because it requires an in-depth application-layer protocol analysis due to the common use of HTTP(S) and standard data representations (e.g., JSON). This paper presents Extractocol, the first system to offer an automatic and comprehensive analysis of application protocol behaviors for Android applications. Extractocol only uses Android application binary as input and accurately reconstructs HTTP transactions (request-response pairs) and identifies their message formats and relationships using binary analysis. Our evaluation and in-depth case studies on closed-source and open-source apps demonstrate that Extractocol accurately reconstructs network message formats and characterizes network-related application behaviors.},
-  pages={281--295},
+@article{park2016predicting,
+  title={Predicting market impact costs using nonparametric machine learning models},
+  author={Park, Saerom and Lee, Jaewook and Son, Youngdoo},
+  journal={PLoS One},
+  volume={11},
+  number={2},
+  pages={e0150243},
   year={2016},
-  pdf={kim-conext16.pdf},
+  publisher={Public Library of Science San Francisco, CA USA}
 }
+
+@article{park2020he,
+  title={HE-friendly algorithm for privacy-preserving SVM training},
+  author={Park, Saerom and Byun, Junyoung and Lee, Joohee and Cheon, Jung Hee and Lee, Jaewook},
+  journal={IEEE Access},
+  volume={8},
+  pages={57414--57425},
+  year={2020},
+  publisher={IEEE}
+}
+
+@article{lee2020lipschitz,
+  title={Lipschitz-certifiable training with a tight outer bound},
+  author={Lee, Sungyoon and Lee, Jaewook and Park, Saerom},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  year={2020}
+}
+
+@article{son2018learning,
+  title={Learning representative exemplars using one-class Gaussian process regression},
+  author={Son, Youngdoo and Lee, Sujee and Park, Saerom and Lee, Jaewook},
+  journal={Pattern Recognition},
+  volume={74},
+  pages={185--197},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@inproceedings{park2019security,
+  title={Security-preserving support vector machine with fully homomorphic encryption},
+  author={Park, Saerom and Lee, Jaewook and Cheon, Jung Hee and Lee, Juhee and Kim, Jaeyun and Byun, Junyoung},
+  booktitle={SafeAI@ AAAI},
+  year={2019}
+}
+
+@article{hah2018information,
+  title={Information-based boundary equilibrium generative adversarial networks with interpretable representation learning},
+  author={Hah, Junghoon and Lee, Woojin and Lee, Jaewook and Park, Saerom},
+  journal={Computational intelligence and neuroscience},
+  volume={2018},
+  year={2018},
+  publisher={Hindawi}
+}
+
+@article{lee2018defensive,
+  title={Defensive denoising methods against adversarial attack},
+  author={Lee, Sungyoon and Lee, Jaewook},
+  year={2018}
+}
+
+@article{park2017inductive,
+  title={Inductive ensemble clustering using kernel support matching},
+  author={Park, S and Hah, J and Lee, J},
+  journal={Electronics Letters},
+  volume={53},
+  number={25},
+  pages={1625--1626},
+  year={2017},
+  publisher={Wiley Online Library}
+}
+
+@article{park2019learning,
+  title={Learning of indiscriminate distributions of document embeddings for domain adaptation},
+  author={Park, Saerom and Lee, Woojin and Lee, Jaewook},
+  journal={Intelligent Data Analysis},
+  volume={23},
+  number={4},
+  pages={779--797},
+  year={2019},
+  publisher={IOS press}
+}
+
+@article{lee2018instance,
+  title={Instance weighting domain adaptation using distance kernel},
+  author={Lee, Woojin and Lee, Jaewook and Park, Saerom},
+  journal={Industrial Engineering \& Management Systems},
+  volume={17},
+  number={2},
+  pages={334--340},
+  year={2018}
+}
+
+@article{byun2021privacy,
+  title={Privacy-preserving evaluation for support vector clustering},
+  author={Byun, J and Lee, J and Park, S},
+  journal={Electronics Letters},
+  volume={57},
+  number={2},
+  pages={61--64},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+
+@article{park2020stability,
+  title={Stability Analysis of Denoising Autoencoders Based on Dynamical Projection System},
+  author={Park, Saerom and Lee, Jaewook},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2020},
+  publisher={IEEE}
+}
+

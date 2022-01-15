@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   address: >
 
 news: true  # includes a list of news items
@@ -14,11 +14,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+I am currently an Assistant Professor in the Department of Convergence Security Engineering ([CSE](https://www.sungshin.ac.kr/cse/index.do)), Sungshin Women’s University in Seoul, South Korea. I received a B.S. and Ph.D. in industrial engineering from Seoul National University in 2013 and 2018. My research focuses on secure and stable machine learning. This includes: stability analysis, robust training from an adversary, and privacy-preserving machine learning through encryption. 
 
 
-I am a fourth-year PhD student in the [ECE Department](https://www.ece.cmu.edu/) at Carnegie Mellon University. I am fortunate to be co-advised by [Peter Steenkiste](https://www.cs.cmu.edu/~prs/) and [Vyas Sekar](https://users.ece.cmu.edu/~vsekar/). Prior to CMU, I received a BS degree in Computer Science from KAIST. My research interests lie in the intersection of network monitoring and programmable hardware devices.
 
 <!-- 
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
