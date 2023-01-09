@@ -15,8 +15,10 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-***I'll be joining the Indistrial Engineering Department at Ulsan National Institute of Science and Technology (UNIST) in Spring 2023.*** I am actively looking for prospective undergraduate/master/Ph.D. students or postdocs. If you are interested in working with me, please feel free to send [me](drsaerompark@gmail.com) an email with information about your research interests and relevant background experiences.
--- 
+ **I'll be joining the Indistrial Engineering Department at Ulsan National Institute of Science and Technology (UNIST) in Spring 2023.** I am actively looking for prospective undergraduate/master/Ph.D. students or postdocs. If you are interested in working with me, please feel free to send [me](drsaerompark@gmail.com) an email with information about your research interests and relevant background experiences.
+
+***
+
 I am currently an Assistant Professor in the Department of Convergence Security Engineering ([CSE](https://www.sungshin.ac.kr/cse/index.do)), Sungshin Women’s University in Seoul, South Korea. I received a B.S. and Ph.D. in industrial engineering from Seoul National University in 2013 and 2018. My research focuses on secure and stable machine learning. This includes: stability analysis, robust training from an adversary, and privacy-preserving machine learning through encryption. 
 
 <!-- 
