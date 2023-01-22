@@ -15,7 +15,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
- **I'll be joining the Indistrial Engineering Department at Ulsan National Institute of Science and Technology (UNIST) in Spring 2023.** I am actively looking for prospective undergraduate/master/Ph.D. students or postdocs. If you are interested in working with me, please feel free to [send me](mailto:drsaerompark@gmail.com) an email with information about your research interests and relevant background experiences.
+ **I'll be joining the Industrial Engineering Department at Ulsan National Institute of Science and Technology (UNIST) in Spring 2023.** I am actively looking for prospective undergraduate/master/Ph.D. students or postdocs. If you are interested in working with me, please feel free to [send me](mailto:drsaerompark@gmail.com) an email with information about your research interests and relevant background experiences.
 
 ***
 
