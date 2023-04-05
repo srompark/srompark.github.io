@@ -15,11 +15,15 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
- **I'll be joining the Industrial Engineering Department at Ulsan National Institute of Science and Technology (UNIST) in Spring 2023.** I am actively looking for prospective undergraduate/master/Ph.D. students or postdocs. If you are interested in working with me, please feel free to [send me](mailto:drsaerompark@gmail.com) an email with information about your research interests and relevant background experiences.
+ <!-- I'll be joining the Industrial Engineering Department at Ulsan National Institute of Science and Technology (UNIST) in Spring 2023. 
+
+*** -->
+
+I am currently an Assistant Professor in the Industrial Engineering Department ([IE](https://ie.unist.ac.kr/)) at Ulsan National Institute of Science and Technology (UNIST) with joint appointment in the Artificial Intelligence Graduate School ([AIGS](https://aigs.unist.ac.kr/web/index.php)). I received a B.S. and Ph.D. in industrial engineering from Seoul National University in 2013 and 2018. My research focuses on safe machine learning, which includes: security-enhanced machine learning, privacy-preserving machine learning and fairness-aware machine learning. 
 
 ***
 
-I am currently an Assistant Professor in the Department of Convergence Security Engineering ([CSE](https://www.sungshin.ac.kr/cse/index.do)), Sungshin Women’s University in Seoul, South Korea. I received a B.S. and Ph.D. in industrial engineering from Seoul National University in 2013 and 2018. My research focuses on secure and stable machine learning. This includes: stability analysis, robust training from an adversary, and privacy-preserving machine learning through encryption. 
+I am actively looking for prospective undergraduate/master/Ph.D. students or postdocs. If you are interested in working with me, please feel free to [send me](mailto:srompark@unist.ac.kr) an email with the information about your research interests and relevant background experiences.
 
 <!-- 
 
