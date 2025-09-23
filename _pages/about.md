@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in the Industrial Engineering Department ([IE](https://ie.unist.ac.kr/)) at Ulsan National Institute of Science and Technology (UNIST) with joint appointment in the Artificial Intelligence Graduate School ([AIGS](https://aigs.unist.ac.kr/web/index.php)). I received a B.S. and Ph.D. in industrial engineering from Seoul National University in 2013 and 2018. My research focuses on safe machine learning, which includes: security-enhanced machine learning, privacy-preserving machine learning and fairness-aware machine learning. I lead the [Safe AI Lab](https://sites.google.com/view/safe-ai-lab). I am married to [Hun Namkung](https://hnamkung.github.io/).
+I am an Assistant Professor in the Industrial Engineering Department ([IE](https://ie.unist.ac.kr/)) at Ulsan National Institute of Science and Technology (UNIST) with joint appointment in the Artificial Intelligence Graduate School ([AIGS](https://aigs.unist.ac.kr/web/index.php)). I received a B.S. and Ph.D. in industrial engineering from Seoul National University in 2013 and 2018. My research focuses on safe machine learning, which includes: security-enhanced machine learning, privacy-preserving machine learning and fairness-aware machine learning. I lead the [Safe AI Lab](https://sites.google.com/view/safe-ai-lab).
 
 ---
 
