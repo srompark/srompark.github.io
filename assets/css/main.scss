@@ -13,3 +13,29 @@ $max-content-width: {{site.max_width}};
   "base",
   "distill"
 ;
+
+.publications h2 {
+  font-size: 1.6rem;
+  font-weight: 400 !important;
+}
+
+h2 .scholar-link a {
+  font-size: 0.8em;
+  font-weight: normal;
+}
+
+.navbar {
+  display: none;
+}
+
+body {
+  padding-top: 0 !important;
+}
+
+footer {
+  display: none;
+}
+
+a strong {
+  color: inherit;
+}
